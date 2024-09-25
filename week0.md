@@ -41,7 +41,6 @@
 37. }
 
 
-
 4. Program to check if a triangle is scalene, isosceles or equilateral.
 
 
@@ -58,7 +57,6 @@ public class ifTriangle{
     }
 }
 
-
 5.Program to calculate simple interest.
 
 public class SI{
@@ -68,10 +66,6 @@ public class SI{
    System.out.print("Special interest is : ", SI);
  }
 }
-
-
-
-
 
 
 6.Program to swap two numbers.
